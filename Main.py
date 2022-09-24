@@ -1,11 +1,4 @@
 
-# launch on 10 July where i have seprate the whole 2a aside and whole PR Aside
-# no oracle remarks
-# final sheet will arrived after fp gstn difference
-#
-
-
-
 
 from tkinter.filedialog import askdirectory
 import PyPDF2
